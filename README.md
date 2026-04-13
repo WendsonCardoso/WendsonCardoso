@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Wendson Cardoso
 
-💻 Desenvolvedor Front-end em formação
+💻 Desenvolvedor Front-end em formação, focado na criação de interfaces modernas, responsivas e funcionais com HTML, CSS e JavaScript.
 
-🚀 Buscando minha primeira oportunidade na área de tecnologia
+🚀 Em busca da primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e evoluir profissionalmente.
 
 ---
 
