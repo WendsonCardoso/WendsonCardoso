@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Wendson Cardoso
 
-<!--
-**WendsonCardoso/WendsonCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-end em formação
 
-Here are some ideas to get you started:
+🚀 Buscando minha primeira oportunidade na área de tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologias que estou aprendendo
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📂 Projetos
+
+🔹 Landing Page E-commerce  
+👉  https://wendsoncardoso.github.io/landing-page-ecommerce/
+
+
+
+---
+
+## 📱 Sobre mim
+
+- 📍 Brasil  
+- 🎯 Focado em Front-end  
+- 📚 Estudando todos os dias  
+
+---
+
+## 📫 Contato
+
+- 📧 Wendson.cardoso2020@gmail.com  
+- 💼 Em breve LinkedIn  
+
+---
+⭐ Obrigado por visitar meu perfil!
