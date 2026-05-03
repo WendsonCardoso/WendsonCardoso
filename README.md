@@ -20,7 +20,7 @@
 👉  https://wendsoncardoso.github.io/landing-page-ecommerce/
 ---
 🔹 Wendshop-Ecommerce  
-👉  https://wendsoncardoso.github.io/ Wendshop-Ecommerce/
+👉  https://wendsoncardoso.github.io/Wendshop-Ecommerce/
 ---
 
 
