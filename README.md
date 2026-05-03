@@ -19,8 +19,9 @@
 🔹 Landing Page E-commerce  
 👉  https://wendsoncardoso.github.io/landing-page-ecommerce/
 ---
-🔹 Landing Page E-commerce  
-👉  https://wendsoncardoso.github.io/landing-page-ecommerce/
+🔹 Wendshop-Ecommerce  
+👉  https://wendsoncardoso.github.io/ Wendshop-Ecommerce/
+---
 
 
 ---
